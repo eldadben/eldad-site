@@ -32,7 +32,7 @@ header {
 }
 
 .logo {
-  max-width: 250px;
+  max-width: 400px;
   height: auto;
 }
 
@@ -164,7 +164,7 @@ main {
   border-bottom: 1px solid #e5e5e5;
   font-size: 16px;
   color: #555;
-}
+}h
 
 .exhibitions-photos {
   display: grid;
